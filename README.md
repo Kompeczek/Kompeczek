@@ -1,53 +1,40 @@
-# ◼︎ ALEKSANDER SHKURENKO
+           <p align="center">
 
-<p align="center">
-  <sub>FOUNDER · BUILDER · AI · FINANCE · SYSTEMS</sub>
-</p>
+# **ALEKSANDER**
 
-<p align="center">
-  <strong>Building technology where intelligence meets capital.</strong>
-</p>
+# **SHKURENKO**
 
-<p align="center">
-  <code>AI</code>
-  <code>FINANCE</code>
-  <code>PRODUCT</code>
-  <code>STRATEGY</code>
-  <code>SYSTEMS</code>
+### `FOUNDER · BUILDER · AI · FINANCE · SYSTEMS`
+
+<br>
+
+**Building technology where intelligence meets capital.**
+
+<br>
+
+`◼︎ VANCΟRE FINANCE`    `◼︎ NEXUS`    `◼︎ AI SYSTEMS`
+
 </p>
 
 ---
 
-## `01` — WHO I AM
+<p align="center">
+<sub>STRATEGY · TECHNOLOGY · FINANCIAL INTELLIGENCE</sub>
+</p>
 
 I build systems, products and ideas at the intersection of **artificial intelligence, finance and technology**.
 
-My work sits somewhere between:
+My work combines software engineering, financial intelligence, product architecture and long-term strategic thinking.
 
-> software engineering,
-> financial intelligence,
-> product architecture,
-> business strategy,
-> and long-term thinking.
-
-I am interested in one thing above all:
-
-**turning complexity into systems that create leverage.**
-
-⌁ Technology should not exist merely to impress.
-⌁ Data should become intelligence.
-⌁ Intelligence should become decisions.
-⌁ Decisions should create value.
+> **Turning complexity into systems that create leverage.**
 
 ---
 
-## `02` — CURRENTLY BUILDING
+## Building
 
 ### ◼︎ VANCΟRE FINANCE
 
 A technology venture focused on the future of **personal wealth, financial intelligence and decision systems**.
-
-**Core direction**
 
 `Finance × AI × Data × Prediction`
 
@@ -59,84 +46,70 @@ A technology venture focused on the future of **personal wealth, financial intel
 
 A financial intelligence platform designed to unify:
 
-* personal finances
-* assets
-* liquidity
-* investments
-* financial goals
-* forecasting
-* AI-powered analysis
+`Finances` · `Assets` · `Liquidity` · `Investments` · `Goals` · `Forecasting`
 
-The idea is simple:
-
-**one system → complete financial picture → better decisions**
+**One system → complete financial picture → better decisions.**
 
 ---
 
-### ◼︎ AI SYSTEMS
+### ◼︎ VANCΟRE PREDICT
 
-I am exploring local and hybrid AI architectures involving:
+Researching intelligent systems for financial analysis, market interpretation and predictive decision support.
+
+`Markets × Events × Historical Models × Intelligence`
+
+---
+
+### ◼︎ PRIVATE AI SYSTEMS
+
+Exploring local and hybrid AI architectures designed around privacy, autonomy and organizational intelligence.
 
 ```text
 LLMs
 RAG
 Embeddings
 Knowledge Bases
-Agents
+AI Agents
 Automation
 Data Pipelines
 Private AI
 Enterprise Intelligence
 ```
 
-The long-term objective is not simply to "use AI".
+The objective is not simply to **use AI**.
 
-It is to build **systems that think alongside the organization**.
+It is to build systems that **think alongside the organization**.
 
 ---
 
-## `03` — TECHNOLOGY
+## Technology
 
 ### Languages
 
 ```text
-Python
-SQL
-JavaScript
-HTML
-CSS
+Python · SQL · JavaScript · HTML · CSS
 ```
 
 ### AI / Data
 
 ```text
-LLM
-RAG
-Embeddings
-LangChain
-Vector Databases
-AI Agents
-Machine Learning
-Data Engineering
+LLMs · RAG · Embeddings · LangChain
+Vector Databases · AI Agents · Machine Learning
+Data Engineering · Knowledge Systems
 ```
 
 ### Infrastructure
 
 ```text
-Git
-GitHub
-Linux
-Docker
-APIs
-Local LLMs
-Cloud Infrastructure
+Git · GitHub · Linux · Docker
+APIs · Local LLMs · Cloud Infrastructure
 ```
 
 ### Product
 
 ```text
 System Architecture
-Product Design
+Product Development
 UX / UI
 Automation
 FinTech
@@ -145,25 +118,23 @@ Data Systems
 
 ---
 
-## `04` — SELECTED PROJECTS
+## Selected Projects
 
-| Project                          | Area                   | Status         |
-| -------------------------------- | ---------------------- | -------------- |
-| **Vancore Finance**              | FinTech / AI           | `BUILDING`     |
-| **Nexus**                        | Wealth Management      | `BUILDING`     |
-| **Vancore Predict**              | Financial Intelligence | `R&D`          |
-| **Private AI Systems**           | AI / Infrastructure    | `R&D`          |
+| Project                          | Domain                 |     Status     |
+| :------------------------------- | :--------------------- | :------------: |
+| **Vancore Finance**              | FinTech / AI           |   `BUILDING`   |
+| **Nexus**                        | Wealth Intelligence    |   `BUILDING`   |
+| **Vancore Predict**              | Financial Intelligence |      `R&D`     |
+| **Private AI Systems**           | AI / Infrastructure    |      `R&D`     |
 | **Financial Intelligence Tools** | Data / Finance         | `EXPERIMENTAL` |
 
 ---
 
-## `05` — MY APPROACH
+## Philosophy
 
 I am less interested in building another application.
 
 I am interested in building **infrastructure for better decisions**.
-
-### The principle
 
 ```text
 DATA
@@ -179,56 +150,39 @@ ACTION
 VALUE
 ```
 
-The best products are often not the loudest ones.
-
-They are the ones that quietly become indispensable.
-
----
-
-## `06` — WHAT I BELIEVE
-
-> **Build slowly enough to build correctly.
-> Move quickly enough to stay dangerous.**
-
-I believe technology is most powerful when it disappears into the experience.
-
-The user should not feel the complexity.
-
-They should only feel the result.
-
-◼︎ Simplicity over noise.
-◼︎ Systems over hacks.
-◼︎ Substance over appearance.
-◼︎ Long-term thinking over short-term attention.
-◼︎ Execution over endless planning.
+> **Build slowly enough to build correctly.**
+>
+> **Move quickly enough to stay dangerous.**
 
 ---
 
-## `07` — CURRENT FOCUS
+## Now
 
 ```text
-[■■■■■■■■■■] AI SYSTEMS
+BUILDING
+Vancore Finance
 
-[■■■■■■■■■□] FINANCIAL TECHNOLOGY
+DEVELOPING
+Nexus
 
-[■■■■■■■■□□] PRODUCT DEVELOPMENT
+RESEARCHING
+Private AI Systems
 
-[■■■■■■■□□□] DATA ENGINEERING
-
-[■■■■■■□□□] ENTREPRENEURSHIP
-
-[■■■■■□□□□□] RESEARCH
+EXPLORING
+Data Engineering · FinTech · Intelligence Systems
 ```
 
 ---
 
-## `08` — BEYOND CODE
+## Beyond Code
 
 Technology is only one part of the work.
 
-I am also interested in:
+I am interested in:
 
-`Economics` · `Finance` · `Physics` · `Science` · `Architecture` · `Literature` · `Strategy` · `Systems Thinking`
+`Finance` · `Economics` · `Physics` · `Science` · `Architecture`
+
+`Literature` · `Strategy` · `Systems Thinking` · `Human Behaviour`
 
 Because the most interesting ideas rarely live inside one discipline.
 
@@ -236,15 +190,15 @@ They live **between them**.
 
 ---
 
-## `09` — GITHUB
+## GitHub
 
 Most repositories here are not meant to be demonstrations.
 
-They are **experiments, components, prototypes and building blocks**.
+They are **experiments, prototypes, components and building blocks**.
 
-Some projects may remain unfinished.
+Some projects will remain unfinished.
 
-Some may become products.
+Some will become products.
 
 And a few may become something much larger than originally intended.
 
@@ -252,26 +206,18 @@ That's part of the process.
 
 ---
 
-## `10` — CONNECT
-
 <p align="center">
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+### `BUILD · THINK · LEARN · REPEAT`
 
-<a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<br>
 
-</p>
+<sub>
+The future is built before it becomes obvious.
+</sub>
 
----
+<br><br>
 
-<p align="center">
-  <sub>◼︎ BUILD · THINK · LEARN · REPEAT</sub>
-</p>
+`◼︎` `⌁` `∞`
 
-<p align="center">
-  <em>The future is built before it becomes obvious.</em>
 </p>
