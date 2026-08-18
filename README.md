@@ -1,60 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=200&section=header&text=Aleksander&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" alt="Header" />
-</div>
-
-<h1 align="center">Architecting Financial Systems & Automating Chaos ⚡</h1>
-
-<div align="center">
-  <p><em>"Building tools that survive contact with reality, Polish tax laws, and extreme load."</em></p>
-</div>
-
----
-
-### 🛡️ > Whoami
-
-I bridge the gap between complex logic, **FinTech architecture**, and **Cybersecurity**. I build resilient systems, automate multi-agent workflows, and ruthlessly stress-test my code. 
-
-- 🚀 **Currently building:** **Vancore Finance** – Next-gen Wealth Management tool integrating Polish KSeF API & Open Banking.
-- 🎓 **Education:** Information & Cybersecurity @ *Akademia Sztuki Wojennej* | CS50x *Harvard* Alumnus | AI Developer *Vanderbilt*.
-- 💡 **Focus:** Low-code automations, database architecture, and breaking financial engines in sandbox environments.
-- 🌙 **After hours:** Writing poetry (working on *"INSOMNIA - FROM THE NATURE"*), designing digital art, and digging into classic Morrowind/Minecraft modding engines.
-
----
-
-### ⚙️ > Tech_Stack
-
-<div align="center">
-  <br />
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <br />
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Base44-000000?style=for-the-badge&logo=code&logoColor=white" alt="Base44" />
-  <img src="https://img.shields.io/badge/AI_Agents-0A0A0A?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-</div>
-
----
-
-### 📈 > System_Telemetry (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kompeczek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kompeczek&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
----
-
-### 🤝 > Establish_Connection
-
-<div align="center">
-  <a href="mailto:aleksander.shkurenko@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="www.linkedin.com/in/aleksander-shkurenko"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Aleksander+Shkurenko;CEO+%40+Vancore+Finance;Cybersec+%26+FinTech+Architect" alt="Typing Header" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=100&section=footer" alt="Footer" />
+  <p><em>"Architecting resilient financial ecosystems and securing digital infrastructure."</em></p>
+</div>
+
+<br>
+
+### // EXECUTIVE_SUMMARY
+
+Leading the development of **Vancore Finance** — a next-generation Wealth Management platform integrating Open Banking and Polish KSeF API. Bridging the gap between high-level business strategy, rigid financial logic, and uncompromising cybersecurity.
+
+- 🏢 **Role:** Co-Founder & CEO @ Vancore Finance
+- 🛡️ **Focus:** FinTech Architecture, Secure APIs, Multi-agent AI Systems
+- 🎓 **Credentials:** Information & Cybersecurity @ *Akademia Sztuki Wojennej* | CS50x *Harvard* Alumnus | AI Developer *Vanderbilt*
+- ⚙️ **Stack:** Python | C | SQL | Low-code Automation (n8n, Supabase)
+
+<br>
+
+### // TECH_ARSENAL
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFFF" alt="Python" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FFFF" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00FFFF" alt="Supabase" />
+  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=00FFFF" alt="n8n" />
+  <img src="https://img.shields.io/badge/Base44-000000?style=for-the-badge&logo=code&logoColor=00FFFF" alt="Base44" />
+  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=00FFFF" alt="AI" />
+</div>
+
+<br>
+
+### // SYSTEM_TELEMETRY
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kompeczek&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kompeczek&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+### // ESTABLISH_CONNECTION
+
+<div align="center">
+  <a href="mailto:TWÓJ_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFFF" alt="Email" /></a>
+  <a href="TWÓJ_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFFF" alt="LinkedIn" /></a>
 </div>
