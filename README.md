@@ -1,59 +1,277 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Aleksander+Shkurenko;CEO+%40+Vancore+Finance;Cybersec+%26+FinTech+Architect" alt="Typing Header" />
-</div>
+# ◼︎ ALEKSANDER SHKURENKO
 
-<div align="center">
-  <!-- Licznik odwiedzin profilu w wersji monochromatycznej -->
-  <img src="https://komarev.com/ghpvc/?username=Kompeczek&color=ffffff&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+<p align="center">
+  <sub>FOUNDER · BUILDER · AI · FINANCE · SYSTEMS</sub>
+</p>
 
-<div align="center">
-  <p><em>"Architecting resilient financial ecosystems and securing digital infrastructure."</em></p>
-</div>
+<p align="center">
+  <strong>Building technology where intelligence meets capital.</strong>
+</p>
 
-<br>
+<p align="center">
+  <code>AI</code>
+  <code>FINANCE</code>
+  <code>PRODUCT</code>
+  <code>STRATEGY</code>
+  <code>SYSTEMS</code>
+</p>
 
-### // EXECUTIVE_SUMMARY
+---
 
-Leading the development of **Vancore Finance** — a next-generation Wealth Management platform integrating Open Banking and Polish KSeF API. Bridging the gap between high-level business strategy, rigid financial logic, and uncompromising cybersecurity.
+## `01` — WHO I AM
 
-- 🏢 **Role:** Co-Founder & CEO @ Vancore Finance
-- 🛡️ **Focus:** FinTech Architecture, Secure APIs, Multi-agent AI Systems
-- 🎓 **Credentials:** Information & Cybersecurity @ *Akademia Sztuki Wojennej* | CS50x *Harvard* Alumnus | AI Developer *Vanderbilt*
-- ⚙️ **Stack:** Python | C | SQL | Low-code Automation (n8n, Supabase)
+I build systems, products and ideas at the intersection of **artificial intelligence, finance and technology**.
 
-<br>
+My work sits somewhere between:
 
-### // TECH_ARSENAL
+> software engineering,
+> financial intelligence,
+> product architecture,
+> business strategy,
+> and long-term thinking.
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff&color=000000" alt="Python" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff&color=000000" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=ffffff&color=000000" alt="SQL" />
-  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=ffffff&color=000000" alt="Supabase" />
-  <img src="https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=ffffff&color=000000" alt="n8n" />
-  <img src="https://img.shields.io/badge/Base44-000000?style=for-the-badge&logo=code&logoColor=ffffff&color=000000" alt="Base44" />
-  <img src="https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge&logo=openai&logoColor=ffffff&color=000000" alt="AI" />
-</div>
+I am interested in one thing above all:
 
-<br>
+**turning complexity into systems that create leverage.**
 
-### // SYSTEM_TELEMETRY
+⌁ Technology should not exist merely to impress.
+⌁ Data should become intelligence.
+⌁ Intelligence should become decisions.
+⌁ Decisions should create value.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kompeczek&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kompeczek&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kompeczek&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true" alt="Top Languages" />
-</div>
+## `02` — CURRENTLY BUILDING
 
-<br>
+### ◼︎ VANCΟRE FINANCE
 
-### // ESTABLISH_CONNECTION
+A technology venture focused on the future of **personal wealth, financial intelligence and decision systems**.
 
-<div align="center">
-  <a href="mailto:TWÓJ_EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&color=000000" alt="Email" /></a>
-  <a href="TWÓJ_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=000000" alt="LinkedIn" /></a>
-</div>
+**Core direction**
+
+`Finance × AI × Data × Prediction`
+
+> Building a financial operating system designed to help people understand, manage and grow their capital.
+
+---
+
+### ◼︎ NEXUS
+
+A financial intelligence platform designed to unify:
+
+* personal finances
+* assets
+* liquidity
+* investments
+* financial goals
+* forecasting
+* AI-powered analysis
+
+The idea is simple:
+
+**one system → complete financial picture → better decisions**
+
+---
+
+### ◼︎ AI SYSTEMS
+
+I am exploring local and hybrid AI architectures involving:
+
+```text
+LLMs
+RAG
+Embeddings
+Knowledge Bases
+Agents
+Automation
+Data Pipelines
+Private AI
+Enterprise Intelligence
+```
+
+The long-term objective is not simply to "use AI".
+
+It is to build **systems that think alongside the organization**.
+
+---
+
+## `03` — TECHNOLOGY
+
+### Languages
+
+```text
+Python
+SQL
+JavaScript
+HTML
+CSS
+```
+
+### AI / Data
+
+```text
+LLM
+RAG
+Embeddings
+LangChain
+Vector Databases
+AI Agents
+Machine Learning
+Data Engineering
+```
+
+### Infrastructure
+
+```text
+Git
+GitHub
+Linux
+Docker
+APIs
+Local LLMs
+Cloud Infrastructure
+```
+
+### Product
+
+```text
+System Architecture
+Product Design
+UX / UI
+Automation
+FinTech
+Data Systems
+```
+
+---
+
+## `04` — SELECTED PROJECTS
+
+| Project                          | Area                   | Status         |
+| -------------------------------- | ---------------------- | -------------- |
+| **Vancore Finance**              | FinTech / AI           | `BUILDING`     |
+| **Nexus**                        | Wealth Management      | `BUILDING`     |
+| **Vancore Predict**              | Financial Intelligence | `R&D`          |
+| **Private AI Systems**           | AI / Infrastructure    | `R&D`          |
+| **Financial Intelligence Tools** | Data / Finance         | `EXPERIMENTAL` |
+
+---
+
+## `05` — MY APPROACH
+
+I am less interested in building another application.
+
+I am interested in building **infrastructure for better decisions**.
+
+### The principle
+
+```text
+DATA
+  ↓
+INFORMATION
+  ↓
+INTELLIGENCE
+  ↓
+DECISION
+  ↓
+ACTION
+  ↓
+VALUE
+```
+
+The best products are often not the loudest ones.
+
+They are the ones that quietly become indispensable.
+
+---
+
+## `06` — WHAT I BELIEVE
+
+> **Build slowly enough to build correctly.
+> Move quickly enough to stay dangerous.**
+
+I believe technology is most powerful when it disappears into the experience.
+
+The user should not feel the complexity.
+
+They should only feel the result.
+
+◼︎ Simplicity over noise.
+◼︎ Systems over hacks.
+◼︎ Substance over appearance.
+◼︎ Long-term thinking over short-term attention.
+◼︎ Execution over endless planning.
+
+---
+
+## `07` — CURRENT FOCUS
+
+```text
+[■■■■■■■■■■] AI SYSTEMS
+
+[■■■■■■■■■□] FINANCIAL TECHNOLOGY
+
+[■■■■■■■■□□] PRODUCT DEVELOPMENT
+
+[■■■■■■■□□□] DATA ENGINEERING
+
+[■■■■■■□□□] ENTREPRENEURSHIP
+
+[■■■■■□□□□□] RESEARCH
+```
+
+---
+
+## `08` — BEYOND CODE
+
+Technology is only one part of the work.
+
+I am also interested in:
+
+`Economics` · `Finance` · `Physics` · `Science` · `Architecture` · `Literature` · `Strategy` · `Systems Thinking`
+
+Because the most interesting ideas rarely live inside one discipline.
+
+They live **between them**.
+
+---
+
+## `09` — GITHUB
+
+Most repositories here are not meant to be demonstrations.
+
+They are **experiments, components, prototypes and building blocks**.
+
+Some projects may remain unfinished.
+
+Some may become products.
+
+And a few may become something much larger than originally intended.
+
+That's part of the process.
+
+---
+
+## `10` — CONNECT
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <sub>◼︎ BUILD · THINK · LEARN · REPEAT</sub>
+</p>
+
+<p align="center">
+  <em>The future is built before it becomes obvious.</em>
+</p>
