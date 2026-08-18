@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <!-- Licznik odwiedzin profilu w pasującym stylu -->
+  <img src="https://komarev.com/ghpvc/?username=Kompeczek&color=00FFFF&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
   <p><em>"Architecting resilient financial ecosystems and securing digital infrastructure."</em></p>
 </div>
 
@@ -38,6 +43,11 @@ Leading the development of **Vancore Finance** — a next-generation Wealth Mana
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kompeczek&show_icons=true&bg_color=000000&title_color=00FFFF&text_color=ffffff&icon_color=00FFFF&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kompeczek&background=000000&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <!-- Dodatkowa karta z najczęściej używanymi językami programowania w barwach cyjanu -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kompeczek&layout=compact&bg_color=000000&title_color=00FFFF&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
