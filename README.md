@@ -1,24 +1,39 @@
-# **ALEKSANDER**
+<div align="center">
 
-# **SHKURENKO**
+<h1 align="center">
+ALEKSANDER<br>
+SHKURENKO
+</h1>
 
-### `FOUNDER · BUILDER · AI · FINANCE · SYSTEMS`
-
-<br>
-
-**Building technology where intelligence meets capital.**
-
-<br>
-
-`◼︎ VANCΟRE FINANCE`    `◼︎ NEXUS`    `◼︎ AI SYSTEMS`
-
+<p align="center">
+<strong>FOUNDER · BUILDER · AI · FINANCE · SYSTEMS</strong>
 </p>
+
+<br>
+
+<p align="center">
+<strong>Building technology where intelligence meets capital.</strong>
+</p>
+
+<br>
+
+<p align="center">
+<code>◼ VANCΟRE FINANCE</code>
+&nbsp;&nbsp;
+<code>◼ NEXUS</code>
+&nbsp;&nbsp;
+<code>◼ AI SYSTEMS</code>
+</p>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+
 <sub>STRATEGY · TECHNOLOGY · FINANCIAL INTELLIGENCE</sub>
-</p>
+
+</div>
 
 I build systems, products and ideas at the intersection of **artificial intelligence, finance and technology**.
 
@@ -149,7 +164,6 @@ VALUE
 ```
 
 > **Build slowly enough to build correctly.**
->
 > **Move quickly enough to stay dangerous.**
 
 ---
@@ -204,18 +218,18 @@ That's part of the process.
 
 ---
 
-<p align="center">
+<br>
+
+<div align="center">
 
 ### `BUILD · THINK · LEARN · REPEAT`
 
 <br>
 
-<sub>
-The future is built before it becomes obvious.
-</sub>
+<sub><em>The future is built before it becomes obvious.</em></sub>
 
 <br><br>
 
-`◼︎` `⌁` `∞`
+`◼`   `⌁`   `∞`
 
-</p>
+</div>
